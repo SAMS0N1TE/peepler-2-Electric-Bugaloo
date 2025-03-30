@@ -1,4 +1,4 @@
 requests
-BeautifulSoup
-urllib
+beautifulsoup4
 pystyle
+pyfiglet
