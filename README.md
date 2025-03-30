@@ -4,7 +4,7 @@
 
 peepler is an OSINT tool designed for people searches across 9+ countries—including Canada, USA, India, and more—making open-source intelligence gathering easier and more dynamic.
 
-##  Features
+##Features
 
 * **Multi-Country Support:**  
   Search for individuals across more than 9 countries.
